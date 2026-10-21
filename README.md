@@ -1,6 +1,6 @@
 # ecommerce_data_4students
 
-Dữ liệu export MongoDB (`database.category.json`, `database.products.json`) và bản backup ảnh từ Firebase Storage (`elma-ecommerce-98c30.appspot.com`).
+Dữ liệu export MongoDB (`database.categories.json`, `database.products.json`) và bản backup ảnh từ Firebase Storage (`elma-ecommerce-98c30.appspot.com`).
 
 ## Backup ảnh
 
@@ -14,7 +14,7 @@ node scripts/rewrite-urls.mjs <baseUrl> <outDir> [--nfc]  # ghi bản JSON với
 - `rewrite-urls.mjs` không sửa file gốc; nó tách URL bị dính liền, bỏ ký tự rác và bỏ ảnh không phải Firebase (host `000webhostapp` đã chết, link console), in danh sách các ảnh bị bỏ.
 ## Về `token=` trong URL Firebase
 
-`database.category.json`, `database.products.json` và `backup/manifest.json` (trường `sourceUrl`) chứa URL Firebase Storage có tham số `token=...`. Repo public nên các token này được công khai **có chủ đích**:
+`database.categories.json`, `database.products.json` và `backup/manifest.json` (trường `sourceUrl`) chứa URL Firebase Storage có tham số `token=...`. Repo public nên các token này được công khai **có chủ đích**:
 
 - Đây là *download token* của Firebase: chỉ cho **đọc đúng một file** ảnh đó, giống một link chia sẻ.
 - Token **không** cho ghi, sửa, xoá, hay liệt kê file trong bucket, và không cho truy cập project Firebase/Google Cloud.
@@ -25,7 +25,7 @@ Muốn vô hiệu một token: Firebase Console → Storage → chọn file → 
 ## Cloudflare R2
 
 - Bucket `elma-ecommerce-images`, public qua custom domain `https://media.lecaotanloc.dev/<key>`.
-- JSON đã trỏ sang R2: `backup/r2/database.category.json`, `backup/r2/database.products.json`
+- JSON đã trỏ sang R2: `backup/r2/database.categories.json`, `backup/r2/database.products.json`
   (sinh bằng `node scripts/rewrite-urls.mjs https://media.lecaotanloc.dev backup/r2`).
 - Upload lại / thêm ảnh: `wrangler r2 bulk put` chỉ gán 1 content-type mỗi lần chạy, nên tách theo loại:
 
@@ -41,7 +41,7 @@ Muốn vô hiệu một token: Firebase Console → Storage → chọn file → 
 
 Khi R2 / `media.lecaotanloc.dev` không truy cập được, dùng bộ JSON trỏ sang jsDelivr — CDN miễn phí phục vụ file thẳng từ repo public này:
 
-- `backup/jsdelivr/database.category.json`, `backup/jsdelivr/database.products.json`
+- `backup/jsdelivr/database.categories.json`, `backup/jsdelivr/database.products.json`
 - URL ảnh: `https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/<key>`
 - Sinh lại:
 

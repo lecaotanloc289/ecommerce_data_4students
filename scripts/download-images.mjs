@@ -5,7 +5,7 @@ import { readFile, writeFile, mkdir, stat } from "node:fs/promises";
 import { dirname, join } from "node:path";
 
 const ROOT = new URL("..", import.meta.url).pathname;
-const SOURCES = ["database.category.json", "database.products.json"];
+const SOURCES = ["database.categories.json", "database.products.json"];
 const OUT = join(ROOT, "backup/images");
 const MANIFEST = join(ROOT, "backup/manifest.json");
 const CONCURRENCY = 8;

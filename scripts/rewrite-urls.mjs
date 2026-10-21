@@ -16,7 +16,7 @@ if (!baseUrl || !outDir || (flag && !nfc)) {
 }
 
 const ROOT = new URL("..", import.meta.url).pathname;
-const SOURCES = ["database.category.json", "database.products.json"];
+const SOURCES = ["database.categories.json", "database.products.json"];
 const manifest = JSON.parse(await readFile(join(ROOT, "backup/manifest.json"), "utf8"));
 const base = baseUrl.replace(/\/+$/, "");
 const dropped = [];
