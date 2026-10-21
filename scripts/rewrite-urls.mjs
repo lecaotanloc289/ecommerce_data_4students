@@ -1,14 +1,17 @@
 // Đổi URL ảnh Firebase trong 2 file JSON sang host mới, ghi ra <outDir>/ (không sửa file gốc).
-//   node scripts/rewrite-urls.mjs <baseUrl> <outDir>
+//   node scripts/rewrite-urls.mjs <baseUrl> <outDir> [--nfc]
 //   vd: node scripts/rewrite-urls.mjs https://pub-xxxx.r2.dev backup/r2
 // URL mới = <baseUrl>/<object key>, key giữ nguyên như trong bucket Firebase (products/7/a.jpg).
+// --nfc: chuẩn hoá key về Unicode NFC. Key Firebase có chữ có dấu ở dạng NFD (giữ nguyên trên R2),
+// còn Git trên macOS lưu tên file dạng NFC → host lấy file từ repo (jsDelivr, GitHub raw) cần cờ này.
 // Đồng thời làm sạch: tách URL dính liền, bỏ ký tự rác, bỏ ảnh không phải Firebase (host chết, link console).
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { join } from "node:path";
 
-const [baseUrl, outDir] = process.argv.slice(2);
-if (!baseUrl || !outDir) {
-  console.error("Usage: node scripts/rewrite-urls.mjs <baseUrl> <outDir>");
+const [baseUrl, outDir, flag] = process.argv.slice(2);
+const nfc = flag === "--nfc";
+if (!baseUrl || !outDir || (flag && !nfc)) {
+  console.error("Usage: node scripts/rewrite-urls.mjs <baseUrl> <outDir> [--nfc]");
   process.exit(1);
 }
 
@@ -27,7 +30,8 @@ function newUrl(value, where) {
   const key = firebaseKey(value);
   if (!key) { dropped.push({ where, value }); return null; }
   if (!manifest[key]) throw new Error(`Thiếu file trong backup: ${key} (${where})`);
-  return `${base}/${key.split("/").map(encodeURIComponent).join("/")}`;
+  const path = nfc ? key.normalize("NFC") : key;
+  return `${base}/${path.split("/").map(encodeURIComponent).join("/")}`;
 }
 
 for (const f of SOURCES) {

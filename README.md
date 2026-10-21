@@ -6,7 +6,7 @@ Dữ liệu export MongoDB (`database.category.json`, `database.products.json`) 
 
 ```bash
 node scripts/download-images.mjs                      # tải ảnh được tham chiếu → backup/images/<key>, ghi backup/manifest.json
-node scripts/rewrite-urls.mjs <baseUrl> <outDir>      # ghi bản JSON với URL = <baseUrl>/<key> vào <outDir>/
+node scripts/rewrite-urls.mjs <baseUrl> <outDir> [--nfc]  # ghi bản JSON với URL = <baseUrl>/<key> vào <outDir>/
 ```
 
 - Ảnh lưu đúng object key của bucket Firebase (`products/7/a.jpg`, `Categories/…`, `category/icons/…`), nên chỉ cần đổi `baseUrl` khi chuyển host.
@@ -36,3 +36,25 @@ Muốn vô hiệu một token: Firebase Console → Storage → chọn file → 
   # lặp lại với image/png
   ```
 - Đổi host khác: gắn domain mới vào bucket (`wrangler r2 bucket domain add`) rồi chạy lại `rewrite-urls.mjs` với base URL mới.
+
+## Dự phòng: jsDelivr (lấy ảnh từ chính repo GitHub này)
+
+Khi R2 / `media.lecaotanloc.dev` không truy cập được, dùng bộ JSON trỏ sang jsDelivr — CDN miễn phí phục vụ file thẳng từ repo public này:
+
+- `backup/jsdelivr/database.category.json`, `backup/jsdelivr/database.products.json`
+- URL ảnh: `https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/<key>`
+- Sinh lại:
+
+  ```bash
+  node scripts/rewrite-urls.mjs https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images backup/jsdelivr --nfc
+  ```
+
+  `--nfc` là bắt buộc với host lấy file từ Git: key Firebase lưu chữ có dấu ở dạng Unicode NFD, còn Git (macOS) lưu tên file dạng NFC — thiếu cờ thì các ảnh tên tiếng Việt (vd. `products/83/90.-Pin-sạc-dự-phòng-…`) bị 404. R2 giữ key gốc nên **không** dùng cờ này cho R2.
+- jsDelivr cache theo nhánh `@main` tới ~12 giờ; ảnh mới push có thể chưa hiện ngay.
+- Lần đầu một file được gọi, jsDelivr phải kéo từ GitHub về — đôi khi trả `404` tạm thời, gọi lại sau vài giây là được.
+
+| Nguồn | Bộ JSON | Ghi chú |
+|---|---|---|
+| Cloudflare R2 | `backup/r2/` | Chính, có CDN |
+| jsDelivr ← GitHub | `backup/jsdelivr/` | Dự phòng, miễn phí |
+| Firebase Storage | file gốc ở thư mục gốc | Có thể ngừng bất cứ lúc nào (billing Google) |

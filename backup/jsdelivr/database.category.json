@@ -1,0 +1,79 @@
+[
+  {
+    "_id": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "name": "Smartphone",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/category/icons/1710865329390phone.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "name": "Laptops",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/laptop.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "name": "Desktop Computer",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/computer.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "name": "Headphones",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/Headphones.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "name": "Cameras",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/Cameras.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "name": "Television",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/category/icons/1710865365570television.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "name": "Smartwatches",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/Smartwatches.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "name": "Chargers",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/Chargers.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "name": "Power Banks",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/Power%20Banks.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "name": "Printers and Scanners",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/Printers%20and%20Scanners.png"
+  },
+  {
+    "_id": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "name": "Audio Devices",
+    "icon": "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/Categories/Audio%20Devices.png"
+  }
+]

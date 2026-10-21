@@ -1,0 +1,2414 @@
+[
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f04f"
+    },
+    "name": "Điện thoại Samsung Galaxy Z Flip 5",
+    "description": "- Màn hình: - Chính 6.7\" & Phụ 3.4\"\n- Chính: Dynamic AMOLED, Phụ: Super AMOLED\n- Camera sau: 2 x 12MP\n- Camera trước: 10MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 512GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+    "price": 25990000,
+    "brand": "SAMSUNG",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_blue.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_gray.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_icyBlue.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_phantomBlack.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": true
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f04c"
+    },
+    "name": "Điện thoại Samsung Galaxy Z Fold 5",
+    "description": "- Màn hình: - Chính 7.6\" & Phụ 6.2\"\n- Dynamic AMOLED 2X\n- Camera sau: 50MP, 12MP, 10MP\n- Camera trước: 10MP, 4MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 256GB\n- RAM: 12GB\n- Hệ điều hành: Android",
+    "price": 40990000,
+    "brand": "SAMSUNG",
+    "rating": 4.1,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_blue.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_gray.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_icyBlue.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/7/product_color_phantomBlack.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f051"
+    },
+    "name": "Điện thoại Samsung Galaxy Z Flip4",
+    "description": "- Màn hình: Chính: 6.7\" Dynamic AMOLED 2X, Phụ: 1.9\" Super AMOLED\n- Camera sau: 2x 12MP\n- Camera trước: 10MP\n- CPU: Qualcomm Snapdragon 8+ Gen 1\n- Bộ nhớ: 256GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+    "price": 25790000,
+    "brand": "SAMSUNG",
+    "rating": 4.1,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/9/product_color_lavender.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/9/product_color_blue%20(2).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/9/product_color_gray%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/9/product_color_green%20(1).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f04b"
+    },
+    "name": "iPhone 15 Pro Max",
+    "description": "- Màn hình: OLED Super Retina XDR\n- Camera sau: 48MP, 12MP\n- Camera trước: 12MP\n- CPU: Apple A17 Bionic\n- Bộ nhớ: 256GB\n- Hệ điều hành: iOS",
+    "price": 31490000,
+    "brand": "APPLE",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/3/258521537.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/3/1349547788.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/3/1575380003.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/3/1941091074.png"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": true
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f04e"
+    },
+    "name": "iPhone 15 Plus",
+    "description": "- Màn hình: OLED Super Retina XDR\n- Camera sau: 48MP, 12MP\n- Camera trước: 12MP\n- CPU: Apple A16 Bionic\n- Bộ nhớ: 128GB\n- Hệ điều hành: iOS",
+    "price": 22790000,
+    "brand": "APPLE",
+    "rating": 4.2,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/6/iphone-15-plus-1-2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/6/iphone-15-plus-128gb-hong-2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/6/iphone-15-plus-128gb-vang-2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/6/iphone-15-plus-128gb-xanh-2.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f050"
+    },
+    "name": "Điện thoại Samsung Galaxy S23 Plus",
+    "description": "- Màn hình: 6.6\" Dynamic AMOLED 2X\n- Camera sau: 12MP, 10MP, 50MP\n- Camera trước: 12MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 512GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+    "price": 25790000,
+    "brand": "SAMSUNG",
+    "rating": 4.4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/8/product_color_blue%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/8/product_color_black.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/8/product_color_green.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/8/product_color_orange.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f052"
+    },
+    "name": "iPhone 14 Pro Max",
+    "description": "- Màn hình: LTPO Super Retina XDR OLED - 120Hz\n- Camera sau: 48MP, 2x 12MP\n- Camera trước: 12MP\n- CPU: A16 Bionic\n- Bộ nhớ: 512GB\n- RAM: 6GB\n- Hệ điều hành: IOS",
+    "price": 18990000,
+    "brand": "APPLE",
+    "rating": 4.1,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/10/iphone-15-pro-max-chinh-hang-4.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/10/iphone-15-pro-max-chinh-hang-1.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/10/iphone-15-pro-max-chinh-hang-2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/10/iphone-15-pro-max-chinh-hang-3.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": true
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f049"
+    },
+    "name": "Điện thoại Samsung Galaxy Z Fold 4",
+    "description": "Màn hình: Dynamic AMOLED 2X Chính 7.6\" & Phụ 6.2\"\n- Camera sau: 12MP, 10MP, 50MP\n- Camera trước: 10MP, 4MP\n- CPU: Qualcomm Snapdragon 8+ Gen 1\n- Bộ nhớ: 256GB\n- RAM: 12GB\n- Hệ điều hành: Android",
+    "price": 38990000,
+    "brand": "SAMSUNG",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/600_600_samsung_galaxy_z_fold_4.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/600_galaxy_z_fold_4_xtmobile_1.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/galaxy-z-fold4-highlights-kv.png"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f04a"
+    },
+    "name": "Điện thoại Samsung Galaxy S23 Ultra",
+    "description": "- Màn hình: 6.8\" Dynamic AMOLED 2X\n- Camera sau: 200MP, 12 MP, 2 x 10MP\n- Camera trước: 12 MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 256GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+    "price": 30490000,
+    "brand": "SAMSUNG",
+    "rating": 4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/2/samsung-galaxy-s-ultra-tim-1.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/2/samsung-galaxy-s23-ultra-1-2.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/2/samsung-galaxy-s23-ultra-xanh-1.png"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f04d"
+    },
+    "name": "iPhone 15 Pro",
+    "description": "- Màn hình: OLED Super Retina XDR\n- Camera sau: 48MP, 12MP\n- Camera trước: 12MP\n- CPU: Apple A17 Bionic\n- Bộ nhớ: 128GB\n- Hệ điều hành: iOS",
+    "price": 28990000,
+    "brand": "APPLE",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/5/iphone-15-pro-blue-1-650x650.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/5/iphone-15-pro-blue-2-650x650.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/5/iphone-15-pro-blue-3-650x650.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/5/iphone-15-pro-blue-8-650x650.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d852ec2f1bfc3c4ffc6675"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f058"
+    },
+    "name": "Laptop HP Pavilion 14-dv2071TU (7C0W0PA) (i7-1255U)",
+    "description": "- CPU: Intel Core i7-1255U\n- Màn hình: 14\" IPS (1920 x 1080)\n- RAM: 2 x 8GB DDR4 3200MHz\n- Đồ họa: Onboard Intel Iris Xe Graphics\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home SL\n- Pin: 3 cell 41 Wh Pin liền\n- Khối lượng: 1.4kg\n- Chuẩn Non-EVO",
+    "price": 20790000,
+    "brand": "HP",
+    "rating": 4.4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/16/hp-pavilion-14-dv2071tu-i7-7c0w0%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/16/hp-pavilion-14-dv2071tu-i7-7c0w0.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/16/hp-pavilion-14-dv2071tu-i7-7c0w0%20(2).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/16/hp-pavilion-14-dv2071tu-i7-7c0w0.png"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": true
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f054"
+    },
+    "name": "Laptop MSI Stealth 16 Mercedes-AMG Motorsport A13VG (i9-13900H/RAM 32GB/2TB SSD/ Windows 11)",
+    "description": "- CPU: Intel Core i9-13900H\n- Màn hình: 16\" OLED (3840 x 2400)\n- RAM: 2 x 16GB DDR5 5200MHz\n- Đồ họa: RTX 4070 8GB GDDR6 / Intel Iris Xe Graphics\n- Lưu trữ: 2TB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 4 cell 99 Wh Pin liền\n- Khối lượng: 1.9kg\n- Chuẩn Non-EVO",
+    "price": 75690000,
+    "brand": "MSI",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/12/75385_laptop_msi_stealth_16_merc.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/12/75385_laptop_msi_stealth_16_merc%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/12/75385_laptop_msi_stealth_16_merc%20(2).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f053"
+    },
+    "name": "Laptop Acer Aspire 3 A315-59-381E (NX.K6TSV.006) (i3-1215U)",
+    "description": "- CPU: Intel Core i3-1215U\n- Màn hình: 15.6\" (1920 x 1080)\n- RAM: 2 x 4GB DDR4 2400MHz\n- Đồ họa: Onboard Intel UHD Graphics\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 3 cell 40 Wh Pin liền\n- Khối lượng: 1.7kg\n- Chuẩn Non-EVO",
+    "price": 15290000,
+    "brand": "ACER",
+    "rating": 4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/11/10053511-laptop-acer-aspire-3-a3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/11/10053511-laptop-acer-aspire-3-a3%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/11/10053511-laptop-acer-aspire-3-a3%20(2).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/11/10053511-laptop-acer-aspire-3-a3%20(3).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f05a"
+    },
+    "name": "MacBook Pro M2 Pro 2023 16 inch (16GB/512GB SSD)",
+    "description": "- CPU: Apple M2 Pro\n- Màn hình: 16.2\" (3456 x 2234) Liquid Retina XDR\n- RAM: 16GB / 512GB SSD\n- Hệ điều hành: macOS\n- Pin: 100 Wh",
+    "price": 58350000,
+    "brand": "APPLE",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/18/macbook-pro-m2-16-inch-2023-silv.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/18/macbook-pro-m2-16-inch-2023-gray.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/18/macbook-pro-m2-2023-3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/18/macbook-pro-m2-2023-1.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f057"
+    },
+    "name": "Laptop Asus TUF Gaming F15 FX506HE-HN075W (i7-11800H)",
+    "description": "- CPU: Intel Core i7-11800H\n- Màn hình: 15.6\" IPS (1920 x 1080),144Hz\n- RAM: 2 x 8GB DDR4 3200MHz\n- Đồ họa: RTX 3050Ti 4GB GDDR6 / Intel UHD Graphics 750\n- Lưu trữ: 1TB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 3 cell 48 Wh Pin liền\n- Khối lượng: 2.3kg",
+    "price": 20490000,
+    "brand": "ASUS",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/15/asus-tuf-gaming-f15-fx506he-i7-h%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/15/asus-tuf-gaming-f15-fx506he-i7-h.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/15/asus-tuf-gaming-f15-fx506he-i7-h%20(3).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/15/asus-tuf-gaming-f15-fx506he-i7-h%20(2).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f05b"
+    },
+    "name": "Laptop ASUS ROG Flow X16 GV601VV-NL016W (i9-13900H/RAM 16GB/1TB SSD/ Windows 11)",
+    "description": "- CPU: Intel Core i9-13900H\n- Màn hình: 16\" (2560 x 1600),240Hz\n- RAM: 1 x 16GB DDR5 4800MHz\n- Đồ họa: RTX 4060 8GB GDDR6 / Intel Iris Xe Graphics\n- Lưu trữ: 1TB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 4 cell 90 Wh Pin liền\n- Khối lượng: 2.2kg\n- Chuẩn Non-EVO",
+    "price": 52590000,
+    "brand": "ASUS",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/19/24927-laptop-asus-rog-flow-x16-g.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/19/24927-laptop-asus-rog-flow-x16-g%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/19/250-24927-laptop-asus-rog-flow-x.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/19/250-24927-laptop-asus-rog-flow-x%20(1).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f05c"
+    },
+    "name": "Laptop LG Gram 2023 14Z90RS-G.AH54A5 (i5-1340P/RAM 16GB/512GB SSD/ Windows 11)",
+    "description": "- CPU: Intel Core i5-1340P\n- Màn hình: 14\" OLED (2880 x 1800),90Hz\n- RAM: 16GB Onboard LPDDR5 6000MHz\n- Đồ họa: Onboard Intel Iris Xe Graphics\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- 72 Wh Pin liền\n- Khối lượng: 1kg\n- Chuẩn Intel EVO",
+    "price": 32390000,
+    "brand": "LG",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/20/lg-gram-style-2023-i5-14z90rsgah%20(3).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/20/lg-gram-style-2023-i5-14z90rsgah%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/20/lg-gram-style-2023-i5-14z90rsgah.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/20/lg-gram-style-2023-i5-14z90rsgah%20(2).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f055"
+    },
+    "name": "Laptop ACER Predator Helios Neo PHN16-71-53M7 (NH.QLUSV.005) (i5-13500HX/RAM 16GB/512GB SSD/ Windows 11)",
+    "description": "- CPU: Intel Core i5-13500HX\n- Màn hình: 16\" IPS (1920 x 1200),165Hz\n- RAM: 2 x 8GB DDR5 4800MHz\n- Đồ họa: RTX 4060 8GB GDDR6 / Intel UHD Graphics 710\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 4 cell 90 Wh Pin liền\n- Khối lượng: 2.6kg",
+    "price": 35990000,
+    "brand": "ACER",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/13/77333_laptop_acer_gaming_predato.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/13/77333_laptop_acer_gaming_predato%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/13/77333_laptop_acer_gaming_predato%20(3).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f056"
+    },
+    "name": "MacBook Pro M3 Max 2023 14 inch (36GB/1TB SSD)",
+    "description": "- CPU: Apple M3 Max\n- Màn hình: 14\" (3024 x 1964) Liquid Retina XDR\n- RAM: 36GB / 1TB SSD\n- Hệ điều hành: macOS\n- Pin: 72 Wh",
+    "price": 79990000,
+    "brand": "APPLE",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/14/tinp4259-1023-macbook-pro-m3-max.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/14/600x600_macbook_pro_m3_14_inch_2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/14/1699436718_2386_b72b4930dd3d73fd.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/14/1699436718_2386_195e4a198d3014e9.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f059"
+    },
+    "name": "Apple MacBook Pro M3 Pro 16\" (64GB/1TB SSD)",
+    "description": "- CPU: Apple M3 Pro\n- Màn hình: 16\" (3456 x 2234) Liquid Retina XDR\n- RAM: 64GB / 1TB SSD\n- Hệ điều hành: macOS\n- Pin: 100 Wh",
+    "price": 107490000,
+    "brand": "APPLE",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/17/macbook-pro-m3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/17/macbook-pro-m3-16inch-1.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/17/MacBook%20Pro%20Header.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/17/touch-id.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d853192f1bfc3c4ffc6676"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f06c"
+    },
+    "name": "Tai nghe Xiaomi Mi Basic",
+    "description": "- Khoang âm thanh hợp kim nhôm\n- Đệm tai silicone thân thiện với da\n- Dây đeo chắc chắn\n- Hệ thống giảm chấn cân bằng thế hệ 3\n- Chất lượng âm thành rõ ràng\n- Hỗ trợ micro và nút bấm trên dây",
+    "price": 149000,
+    "brand": "XIAOMI",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/27/pms_1538551358.72125327.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/27/pms_1538551418.63826349.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/27/group_197_3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/27/tai-nghe-xiaomi-basic-cac-mau-de.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": true
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f06d"
+    },
+    "name": "Tai nghe Soundmax AH 306S",
+    "description": "- Kiểu kết nối Tai nghe có dây\n- Trở kháng 30 ohms\n- Tần số phản hồi 20Hz-20KHz\n- Độ nhạy 90-98dB/3mW/10mm",
+    "price": 160000,
+    "brand": "SOUNDMAX",
+    "rating": 4.4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/28/tai-nghe-nhet-tai-co-mic-soundma.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/28/ah-306s2.u2470.d20170208.t171447.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/28/ah-306s4.u2470.d20170208.t171346.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/28/tai-nghe-soudmax-ah-306s-tainghe.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f06e"
+    },
+    "name": "Tai nghe In-Ear JBL C200SI (C200SIUGMTCN)",
+    "description": "- Trọng lượng nhẹ và thiết kế nhỏ gọn\n- Một nút bấm hỗ trợ nhận cuộc gọi với mic\n- Âm thanh đặc trưng của JBL sống động\n- Housing hoàn thiện với màu Metallic gray sang trọng",
+    "price": 290000,
+    "brand": "JBL",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/29/tai-nghe-co-day-jbl-c200-siu-thu.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/29/jbl-c200si.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/29/jbl-c200-siu.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/29/jbl-c200-siu-01.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f067"
+    },
+    "name": "Tai nghe Logitech H390",
+    "description": "- Chỉ cần cắm cổng USB-A vào là sẵn sàng sử dụng\n- Nút điều khiển trên dây cho phép kiểm soát âm lượng mà không làm gián đoạn cuộc gọi\n- Quai đeo và chụp tai có đệm giả da thoải mái đeo hàng giờ\n- Micro khử tiếng ồn giảm tạp âm khi đàm thoại",
+    "price": 749000,
+    "brand": "LOGITECH",
+    "rating": 4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/24/hp_lgt_h390_cb7baa114c704ddc95fe.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/24/hp_lgt_h390-1_57cccd8f99c24a7da9.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/24/hp_lgt_h390-2_b4948663bf9443bb97.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/24/hp_lgt_h390-3_3fea2931871e4a7cbd.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f068"
+    },
+    "name": "Tai nghe không dây Bose QuietComfort 35 II Gaming",
+    "description": "- Công nghệ Bose Acoustic Noise Canceling\n- Tích hợp Micro Noise Rejecting\n- Đi kèm bộ PC desktop controller\n- Trợ lý ảo giọng nói\n- Kết nối: Bluetooth 4.2\n- Phạm vi Bluetooth: 10m\n- Thời lượng: 20h không dây, 40h chơi game/có dây\n- Thời gian sạc 2.25h, Sạc nhanh 15p",
+    "price": 8990000,
+    "brand": "BOSE",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/22/tai-nghe-khong-day-bose-quietcom.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/22/tai-nghe-khong-day-bose-quietcom%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/22/tai-nghe-khong-day-bose-quietcom%20(2).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/22/tai-nghe-khong-day-bose-quietcom%20(3).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f06a"
+    },
+    "name": "Tai Nghe Bluetooth LG HBS-FN6",
+    "description": "- Công nghệ âm thanh MERDIAN\n- Các chế độ EQ tùy chỉnh của MERIDIAN\n- Tính năng diệt khuẩn UVnano\n- Chế độ âm thanh Surround\n- Thiết kế nhỏ gọn, tiện lợi",
+    "price": 3490000,
+    "brand": "LG",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/25/tai-nghe-bluetooth-true-wireless%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/25/tai-nghe-bluetooth-lg-earbud-hbs.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/25/tai-nghe-bluetooth-true-wireless.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/25/Z-06.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f06b"
+    },
+    "name": "Tai nghe Bluetooth Sudio Vasa Bla",
+    "description": "- Tai nghe in-ear Bluetooth Sudio Vasa Bla\n- Thiết kế với dây dẹt cao su chống rối\n- 3 nút bấm điều khiển tích hợp trên dây\n- Sạc nhanh mỗi 10 phút cho 1 tiếng sử dụng\n- Thời gian sử dụng lên đến 9 giờ",
+    "price": 2490000,
+    "brand": "SUDIO",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/26/vasa-bla-black_1584172092.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/26/vasa-bla-pink_1584172092.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/26/vasa-bla-white_1584172162.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/26/9e0f3698-de7b-4b1c-b9de-b9b0f4b8.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f06f"
+    },
+    "name": "Tai nghe gaming không dây INZONE H7 SONY WH-G700/WZ",
+    "description": "- Được trang bị 360 Spatial Sound dành cho Chơi game giúp phát hiện chính xác đối thủ\n- Trang bị công nghệ âm thanh tiên tiến nhờ kích hoạt phần mềm PC INZONE Hub\n- Thiết kế đệm tai êm ái cho trải nghiệm đeo thoải mái hàng giờ\n- Kết nối 2,4 GHz đồng thời với kết nối Bluetooth\n- Tích hợp Mic tiện lợi gập xuống để nói, gập lên để tắt tiếng",
+    "price": 4900000,
+    "brand": "SONY",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/1.0/t1.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/1.0/t4.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/1.0/t3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/1.0/t5.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f069"
+    },
+    "name": "Tai nghe gaming không dây SteelSeries Arctis Nova 7 Wireless Dragon",
+    "description": "- Hệ thống âm thanh Nova có Trình điều khiển độ trung thực cao\n- Chất lượng âm thanh vượt trội với Âm thanh không gian 360°\n- Thời lượng pin lên đến 38h với sạc nhanh USB-C, mang đến 6 giờ sử dụng sau 15 phút\n- Mic khử tiếng ồn do AI hỗ trợ sử dụng thuật toán Sonar ClearCast AI để tắt âm thanh xung quanh hoặc tiếng ồn của đồng đội, với ChatMix Dial trên tai nghe",
+    "price": 6390000,
+    "brand": "STEELSERIES",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/23/_edition_pdp_img_buy_01.png__192.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/23/_edition_pdp_img_buy_02.png__192.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/23/_edition_pdp_img_buy_03.png__192.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/23/_edition_pdp_img_buy_04.png__192.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f070"
+    },
+    "name": "Tai nghe Bluetooth Jabra Elite 65t Titanum Black",
+    "description": "- Tích hợp Microphone và điều chỉnh âm lượng\n- Kết nối Bluetooth 5.0\n- Phạm vi hoạt động: 10m\n- Điều khiển bằng giọng nói, tích hợp công nghệ chống ồn ANC\n- Chống bụi, nước chuẩn IP55",
+    "price": 3290000,
+    "brand": "JABRA",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/30/2117-jabra-65t-active.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/30/l-10181502-006.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/30/1742-jabra-elite-65t-cooper-blac.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/30/l-10177664-009.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d855a2f18239ff9bcbcd2d"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f072"
+    },
+    "name": "Máy ảnh Fujifilm GFX100",
+    "description": "- Cảm biến CMOS BSI 43.8 x 32.9mm 102MP\n- Bộ xử lý hình ảnh X Processor 4\n- EVF OLED 5.76 triệu điểm tháo rời được\n- Màn hình LCD cảm ứng, lật, 3.2\" 2.36 triệu điểm\n- Video 4K30 DCI; F-Log Gamma & xuất 10 bit\n- Ổn định hình ảnh sensor-shift 5 trục\n- AF nhận diện pha 2.16 triệu điểm\n- ISO 100-12800\n- Chụp liên tiếp đến 5 fps\n- Tích hợp báng pin\n- 2 khe cắm thẻ nhớ SD",
+    "price": 254999000,
+    "brand": "Fujifilm",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/32/highres-Fujifilm-GFX100-17_15662.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/32/fujifilm-gfx100-ii-12.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/32/may-anh-fujifilm-gfx-1001.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/32/xlg_highres-Fujifilm-GFX100-13_1.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f073"
+    },
+    "name": "MÁY ẢNH CANON EOS 1D X MARK III BODY",
+    "description": "- Cảm biến FF CMOS 20.1MP & vi xử lý DIGIC X\n- Chụp liên tiếp 16 fps (OVF) / 20 fps (LCD)\n- Quay video 5.5K RAW 60p, 4K DCI/UHD 60p\n- Hỗ trợ tỉ lệ crop full width DCI, 1.3x crop\n- Hệ thống lấy nét EOS iTR AF X 191 điểm\n- 2 khay thẻ nhớ CFexpress\n- Khối lượng: 1440g\n- Kích cỡ: 158 x 168 x 83 mm\n- Phụ kiện đi kèm: Nắp body, Pin, Sạc, Thẻ bảo hành, Hướng dẫn sử dụng",
+    "price": 186000000,
+    "brand": "CANON",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/33/Canon_1D_X_Mark_III_slant.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/33/highres-Canon-EOS-1DX-MarkIII-12.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/33/1539-Canon-EOS-1Ds-III-2-1536x11.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/33/1578380662_196.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f078"
+    },
+    "name": "MÁY QUAY CHUYÊN DỤNG SONY PXW-X320 (PAL/ NTSC)",
+    "description": "- Hãng sản xuất (Manufacture): Sony\n- Độ lớn màn hình LCD (inch): 3.5 inch\n- Cảm biến 3 x 1/2\" Exmor CMOS\n- 1920 x 1080 59.94i/p\n- XAVC Intra/Long, MPEG, DVCAM\n- 2 khe SxS Memory Card, 1 khe SD\n- Lens zoom 16x với Servo Control\n- Khẩu độ: f/1.9 - f/16",
+    "price": 262000000,
+    "brand": "SONY",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/38/SOPXWX320CE.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/38/sony-pxwfs7m2k3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/38/2471010_13_09_20191568360340side.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/38/may-quay-phim-chuyen-dung-xdcam.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f07a"
+    },
+    "name": "MÁY QUAY CHUYÊN DỤNG CANON EOS C700",
+    "description": "- Cảm biến CMOS Full-frame 5.9K\n- Hỗ trợ Anamorphic Lens\n- Hỗ trợ quay định dạng RAW\n- Hỗ trợ định dạng Canon XF-AVC và ProRes (không cần bộ ghi ngoài)\n- Hỗ trợ thẻ Cfast và SD\n- Tích hợp Canon Log 2 và 3\n- Hỗ trợ không gian màu ACES\n- Tích hợp Dual Pixel CMOS AF (chỉ ngàm EF mới hỗ trợ)\n- Chip xử lý: Triple DIG!C DV 5 Image Processors",
+    "price": 770000000,
+    "brand": "CANON",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/40/canon-163316.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/40/2376254457-152237947117212044515.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/40/1472702774_img_678403_8718845250.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/40/wg-80-slide-21_cafd514ae6d046b19.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f071"
+    },
+    "name": "Máy ảnh Leica M11",
+    "description": "- Bộ nhớ trong 64GB và Khe cắm SD UHS-II\n- Bộ xử lý Maestro III\n- Cảm biến BSI CMOS Full-Frame 60MP\n- Chụp liên tục 4.5 khung hình/giây",
+    "price": 169990000,
+    "brand": "LEICA",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/31/fallback_m11_01.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/31/Leica-SL2-S03.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/31/leica_m11_2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/31/Leica.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f075"
+    },
+    "name": "MÁY ẢNH FUJIFILM INSTAX MINI 12 (LILAC PURPLE)",
+    "description": "- Độ dài tiêu cự: 60mm\n- Độ phóng đại: 0.37x\n- Khoảng cách lấy nét tối thiểu 30cm\n- Kích thước: 104 x 66.6 x 122 mm\n-Kính ngắm quang học\n- Loại film: Fujifilm instax mini Instant Film\n- Ống kính Fujifilm 60mm có gương selfie\n- Trọng lượng thân máy: 306 g",
+    "price": 2190000,
+    "brand": "FUJIFILM",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/35/713phsjy67l-ac-sl1500_dre97eu3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/35/instax_fujifilm_16655041_4.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/35/44127454461982.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/35/FujifilmInstaxMini11InstantCamer.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f074"
+    },
+    "name": "MÁY ẢNH NIKON D5 BODY",
+    "description": "- Cảm biến hình ảnh mới EXPEED 5 với độ phân giải 20.8MP\n- Dãi ISO ISO 100 đến 102.400 (mở rộng từ 50 3.280.000)\n- Hệ thống lấy nét với 153 điểm lấy nét\n- 99 điểm lấy nét cross-type.\n- Có khả năng quay video 4K Ultra High Definition (UHD)\n- Khả năng chụp liên tục 12 fps , 14 fps\n- Pin tương thích EN-EL18a/ EN-EL18",
+    "price": 122000000,
+    "brand": "NIKON",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/34/ce369f139f23a4f3e74d752adf19a87d.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/34/D5_35_1.4_right__66507.145204121.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/34/DSC_0013-min-scaled.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f076"
+    },
+    "name": "MÁY QUAY CHUYÊN DỤNG CANON 20F-SH",
+    "description": "- Hoạt động trong môi trường cực thiếu sáng với ISO 4 triệu\n- Quay phim chất lượng cao Full HD 1080p/1080i/720p\n- Điều khiển linh hoạt với các chế độ tự động và tùy chỉnh\n- Tương thích với dòng ống kính EF phong phú\n- Chế độ điều khiển từ xa và filter ND/IR tích hợp\n- Nhỏ và nhẹ, đa dụng",
+    "price": 550000000,
+    "brand": "CANON",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/36/1203_2469466_may-quay-chuyen-dun.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/36/th.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/36/may-quay-phim-dung-ong-kinh-mat.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f077"
+    },
+    "name": "MÁY QUAY SONY PXW-FX9",
+    "description": "- Máy quay phim lý tưởng cho làm phim điện ảnh.\n- Thế hệ kế thừa từ dòng máy quay cao cấp VENICE\n- Máy quay cảm biến full-frame 6K của Sony tích hợp công nghệ lấy nét tự động Fast Hybrid AF\n- Công nghệ xử lý Dual Base ISO\n- Công nghệ xử lý màu S-Cinetone™",
+    "price": 295000000,
+    "brand": "SONY",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/37/2471010_6fef27766f6f9f15ea2fc0a4.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/37/2333.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/37/th%20(1).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/37/FX9-Body.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f079"
+    },
+    "name": "ỐNG KÍNH MÁY QUAY CANON 20X50 IAS H/E1 (EF/PL)",
+    "description": "- Ngàm EF\n- Ống kính Ultra Telephoto độ phân giải 4K\n- Tỷ lệ phóng đại lớn, 20 lần, 1000mm\n- Bộ mở rộng gắn sẵn 1.5 lần\n- Tiêu cự tối đa 1500mm\n- Khẩu độ 11 lá cho hình ảnh mượt mà, hấp dẫn\n- Giao tiếp dữ liệu Ống kính-camera\n- Tương thích với camera Super 35mm ngàm EF",
+    "price": 601670000,
+    "brand": "CANON",
+    "rating": 5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/39/canon-20x50-ias-he1-efpl1.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/39/145210.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/39/canon-20x50-ias-he1-efpl3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/39/gsc_115554857_1167696_1.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85626f18239ff9bcbcd2f"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f064"
+    },
+    "name": "Màn hình LCD ASUS 27\" ProArt Display PA279CV (3840 x 2160/IPS/60Hz/5 ms/Adaptive Sync)",
+    "description": "Kích thước: 27\" (3840 x 2160), Tỷ lệ 16:9\nTấm nền IPS, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 60Hz , Thời gian phản hồi 5 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: Adaptive Sync\nCổng hình ảnh: 1 x DisplayPort 1.2, 2 x HDMI 2.0, 1 x USB Type-C",
+    "price": 12990000,
+    "brand": "ASUS",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/48/N1k75GAplY3YMBX6.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/48/monitor-27-asus-proart-display-p.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/48/1f96908a-226f-40ce-bb63-89a498e7.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/48/th%20(6).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": true
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f065"
+    },
+    "name": "Màn hình LCD LG 31.5\" Ergonomic 32UN880 (3840 x 2160/IPS/60Hz/5 ms/FreeSync)",
+    "description": "Kích thước: 31.5\" (3840 x 2160), Tỷ lệ 16:9\nTấm nền IPS, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 60Hz , Thời gian phản hồi 5 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: FreeSync\nCổng hình ảnh: 1 x DisplayPort 1.4, 2 x HDMI, 1 x USB Type-C",
+    "price": 13190000,
+    "brand": "LG",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/49/571e33d347b430893a7061dcf365e9da.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/49/0b5d5076de514db44f71b878e91a70a7.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/49/61oqXtKg5bL._SL1500.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/49/orig.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f05d"
+    },
+    "name": "PC PV Home Office 30116 (R3 PRO 4350G/8GB/512GB SSD/No OS)",
+    "description": "CPU: AMD Ryzen 3 PRO 4350G\nMainboard: Prime A320M-K\nRAM: 8GB DDR4\nSSD: 512GB M.2 NVMe\nPSU: 500W GTX580\nCase: Phong Vũ PV-880B",
+    "price": 6449000,
+    "brand": "PHONG VŨ",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/41/fa626ad2-5f7e-4848-b02b-f47000dc.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/41/1632519.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/41/Torre_Gamer_Core_i5_10400_8GB_RA.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/41/20201210112447_actina_ryzen_3_pr.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": true
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f05f"
+    },
+    "name": "PC Dell Vostro 3020T 71023219 (Intel Core i3-13100/8GB/256GB SSD/Windows 11 Home SL 64-bit/WiFi 802.11ax)",
+    "description": "CPU: Intel Core i3-13100 (3.4 GHz - 4.5 GHz/12MB/4 nhân, 8 luồng)\nRAM: 1 x 8GB DDR4 3200MHz (2 Khe cắm, Hỗ trợ tối đa 64GB)\nĐồ họa: Intel UHD Graphics 730\nLưu trữ: 256GB M.2 NVMe SSD/\nBàn phím + Chuột",
+    "price": 10949000,
+    "brand": "DELL",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/43/20230613135806_8258292e.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/43/PC-Dell-Inspiron-3671-MT-7020560.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/43/dell-inspiron-3020.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/43/53641-may-tinh-de-ban-dell-vostr.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f060"
+    },
+    "name": "PC HP Pro Tower 280 G9 72J49PA (Intel Core i5-12500/8GB/256GB SSD/Không HDD/Windows 11 Home/WiFi 802.11ac)",
+    "description": "CPU: Intel Core i5-12500 (3.0 GHz - 4.6 GHz/18MB/6 nhân, 12 luồng)\nRAM: 1 x 8GB DDR4 2933MHz (2 Khe cắm)\nĐồ họa: Intel UHD Graphics 770\nLưu trữ: 256GB M.2 NVMe SSD/\nBàn phím + Chuột, dây nguồn",
+    "price": 12350000,
+    "brand": "HP",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/44/1611_HPProTower280G9-pa102.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/44/6256713_trainghiem_HP_Protower28.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/44/hp-280-pro-g9-a3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/44/th%20(3).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f062"
+    },
+    "name": "Màn hình LCD LG 44.5\" 45GR95QE-B.ATV (3440 x 1440/OLED/240Hz/0.03 ms/FreeSync Premium)",
+    "description": "Kích thước: 44.5\" (3440 x 1440), Tỷ lệ 21:9\nTấm nền OLED, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 240Hz , Thời gian phản hồi 0.03 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: FreeSync Premium\nCổng hình ảnh: 1 x DisplayPort, 2 x HDMI",
+    "price": 41290000,
+    "brand": "LG",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/46/LG-45GR95QE-UltraGear-OLED-Gamin.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/46/44319_lg_24mk600m__4.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/46/UltraGear_45GR95QE-B_03.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/46/38be34ab-34b1-4967-ad7e-41e5b771.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f063"
+    },
+    "name": "Màn hình LCD LG 27\" 27GR95QE-B.ATV (2560 x 1440/OLED/240Hz/0.03 ms/FreeSync Premium)",
+    "description": "Kích thước: 27\" (2560 x 1440), Tỷ lệ 16:9\nTấm nền OLED, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 240Hz , Thời gian phản hồi 0.03 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: FreeSync Premium\nCổng hình ảnh: 1 x DisplayPort 1.4, 2 x HDMI 2.1",
+    "price": 16990000,
+    "brand": "LG",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/47/19389_man_hinh_may_tinh_lg_27gr9.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/47/0211_12318_result.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/47/screenshot.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/47/th%20(4).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f05e"
+    },
+    "name": "PC HP M01-F2029d 77B55PA (Intel Core i3-12100/8GB/256GB SSD/Không HDD/Windows 11 Home Single Language/WiFi 802.11ac)",
+    "description": "CPU: Intel Core i3-12100 (3.3 GHz - 4.3 GHz/12MB/4 nhân, 8 luồng)\nRAM: 1 x 8GB DDR4 2933MHz (2 Khe cắm)\nĐồ họa: Intel UHD Graphics 730\nLưu trữ: 256GB SSD M.2 NVMe/\nBàn phím + Chuột",
+    "price": 9890000,
+    "brand": "HP",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/42/th%20(2).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/42/pc-hp-m01-f2029d77b55pa-i3-12100.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/42/may-tinh-de-ban-hp-m01-f2029d-77.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/42/81Ps66HgwxL.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f061"
+    },
+    "name": "PC Dell Vostro 3020T (71021400) 71021400 (Intel Core i5-13400/8GB/256GB SSD/1TB HDD/Windows 11 Home SL 64-bit/WiFi 802.11ax)",
+    "description": "CPU: Intel Core i5-13400 (2.5 GHz - 4.6 GHz/20MB/10 nhân, 16 luồng)\nRAM: 1 x 8GB DDR4 3200MHz (2 Khe cắm, Hỗ trợ tối đa 64GB)\nĐồ họa: Intel UHD Graphics 730\nLưu trữ: 256GB M.2 NVMe SSD/1TB HDD 7200RPM\nBàn phím + Chuột",
+    "price": 15090000,
+    "brand": "DELL",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/45/30874-may_tinh_de_ban_dell_vostr.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/45/Dell-Vostro-Desktop-3910-new.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/45/t27u007-1.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/45/desktop-vostro-3020-dellpc-5-510.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f066"
+    },
+    "name": "Màn hình LCD ASUS 23.8\" VG249Q3A (1920 x 1080/IPS/180Hz/1 ms/FreeSync Premium)",
+    "description": "Kích thước: 23.8\" (1920 x 1080), Tỷ lệ 16:9\nTấm nền IPS, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 180Hz , Thời gian phản hồi 1 ms\nHIển thị màu sắc: 16.7 triệu màu\nCông nghệ đồng bộ: FreeSync Premium\nCổng hình ảnh: 1 x DisplayPort 1.2, 2 x HDMI 2.0",
+    "price": 3390000,
+    "brand": "ASUS",
+    "rating": 4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/50/man-hinh-asus-tuf-gaming-vg249q3.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/50/598992_gllnm3_0.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/50/res_aaa8d97cea9bb229b2db339bf5df.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/50/monvg249q3a_5_c936bfc2.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85595f18239ff9bcbcd2b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f07c"
+    },
+    "name": "Google Tivi TCL 4K 98 inch 98C735",
+    "description": "- Android Tivi QLED với độ phân giải 4K\n- Tương thích chuẩn IMAX Enhanced\n- Công nghệ hình ảnh Dolby Vision IQ\n- Âm thanh vòm Dolby Atmos, DTS sống động\n- Kho ứng dụng phong phú\n- Google Assistant có tiếng Việt\n- Tìm kiếm giọng nói trên YouTube bằng tiếng Việt",
+    "price": 58990000,
+    "brand": "TCL",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/52/TCL-98C735p-2048x1152.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/52/279956_2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/52/81JkVIZUWDL.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/52/th%20(7).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f082"
+    },
+    "name": "Smart Tivi Samsung 4K QLED 85 inch QA85Q80C",
+    "description": "- Kích thước: 85\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: WiFi, LAN, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+    "price": 69100000,
+    "brand": "SAMSUNG",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/1-smart-tivi-samsung-qled-4k-85.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/71e5aR9tWcL._SL1200_32922a8b-32b.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/QN55Q60BAFXZA_013_L-Perspective2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/smart-tivi-samsung-4k-crystal-uh.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f081"
+    },
+    "name": "Smart Tivi Samsung 4K Neo QLED 75 inch QA75QN90C",
+    "description": "- Kích thước: 75\"\n- Độ phân giải: 3841 x 2160 / Ultra HD 4K\n- Hệ điều hành: Tizen\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+    "price": 79990000,
+    "brand": "SAMSUNG",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/57/1034_smart_tivi_4k_samsung_qled.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/57/QE75QN900BTXXU_9_Supersize.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/57/samsung-neo-tv.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/57/screenshot%20(1).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f083"
+    },
+    "name": "Google Tivi TCL 4K 65 inch 65P745",
+    "description": "- Bộ xử lý AiPQ Engine 3.0\n- Công nghệ Dolby Vision\n- Công nghệ âm thanh Dolby Atmos\n- Công nghệ Game Accelerator\n- Công nghệ AMD FreeSync\n- Google Assistant",
+    "price": 15470000,
+    "brand": "TCL",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/QN55Q60BAFXZA_013_L-Perspective2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/smart-tivi-samsung-4k-crystal-uh.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/71e5aR9tWcL._SL1200_32922a8b-32b.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/58/1-smart-tivi-samsung-qled-4k-85.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f080"
+    },
+    "name": "Smart Tivi LG 4K 55 inch 55UQ7050PSA",
+    "description": "- Kích thước: 55\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: WebOS 23\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 3 x HDMI",
+    "price": 9490000,
+    "brand": "LG",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/56/lg-UR9050PSK.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/56/large01_V2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/56/smart-lg-4k-55-inch-55uq7550psf.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/56/tivi-lg-55UM7100PTA.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f07b"
+    },
+    "name": "Smart Tivi Samsung 4K Neo QLED 98 inch QA98QN90A",
+    "description": "- Kích thước: 98\"\n- Độ phân giải: 3841 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen OS\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+    "price": 179900000,
+    "brand": "SAMSUNG",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/51/res_91154fd0db33b20f5b0dedbe0a3d.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/51/samsung-tv-75-neo-qled-uhd-4k-sm.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/51/AV.002485_FEATURE_95231.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/51/39915_ua43tu8500_ha5.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f07d"
+    },
+    "name": "Smart Tivi Samsung 4K QLED The Serif 65 inch QA65LS01B",
+    "description": "- Kích thước: 65\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+    "price": 32890000,
+    "brand": "SAMSUNG",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/53/9fe95e0a92d6e6b81b85c863841ee99d.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/53/N5f-rg2iFVienV85nkZtOuDXZuYt1e0q.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/53/smart-kieu-chu-co-chan-the-serif.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/53/th%20(8).jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f07e"
+    },
+    "name": "Smart Tivi Samsung 4K OLED 65 inch QA65S95C",
+    "description": "- Kích thước: 65''\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+    "price": 66350000,
+    "brand": "SAMSUNG",
+    "rating": 4.2,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/54/nXwGFAeJrqv_CZvCNEpSTV6Po7wRk5VD.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/54/1-smart-tivi-samsung-oled-4k-65.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/54/Smart-Tivi-OLED-Samsung-4K-S95C.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/54/z4133039527581-770fe15f619fcb2a8.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f07f"
+    },
+    "name": "Google Tivi Xiaomi A 4K 65 inch L65M8-A2SEA",
+    "description": "- Bộ xử lý Mali G52-MP2\n- Công nghệ Dolby Vision\n- Wide Color Gamut\n- Công nghệ Dolby Audio, DTS-X và DTS Virtual\n- Google Assistant có tiếng Việt",
+    "price": 12790000,
+    "brand": "XIAOMI",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/55/o1cn01cjv7m51huhvm84cae-20243142.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/55/th%20(10).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/55/th%20(9).jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/55/tivi-xiaomi-tv5-pro-65-inch-3.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f084"
+    },
+    "name": "Smart Tivi Samsung 4K QLED 85 inch QA85Q60B",
+    "description": "- Kích thước: 85\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 3 x HDMI",
+    "price": 42540000,
+    "brand": "SAMSUNG",
+    "rating": 4.2,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/60/3012_85q60b.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/60/AV.000925_FEATURE_58188.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/60/qled-85q60b-8-1673839018.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/60/qled-samsung-85q60a-11_3527a073b.jpg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85632f18239ff9bcbcd31"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f086"
+    },
+    "name": "Đồng hồ Apple Watch Ultra 2 4G 49mm (Vỏ Titan Dây Silicone White) (MREJ3VN/A)",
+    "description": "- Màn hình: OLED, 1.92 inch\n- Theo dõi sức khỏe: Tính quãng đường chạy, Điện tâm đồ, Đếm số bước chân\n- Thông báo ứng dụng: Tin nhắn, Cuộc gọi, Messenger (Facebook)\n- Thời lượng pin lên đến 36 giờ ở chế độ thông thường\n- Đạt chuẩn chống nước 10 ATM\n- Khả năng định vị chuẩn xác, đảm bảo an toàn ở bất kỳ đâu\n- Nghe gọi thông qua eSIM",
+    "price": 21490000,
+    "brand": "APPLE",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/62/lwtiTM5--mWTY2mMJNxXjFyUYYCX69iv.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/62/p09ZTGDP2crpS6hlQNVIwrCmKFt_Lpll.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/62/apple-watch-ultra-cao-su-trang-t.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/62/Lftj8d-Y-esFGyKDdKKO4JG_SSCJ8mBg.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f089"
+    },
+    "name": "Đồng hồ Apple Watch SE GPS 40mm Midnight (Vỏ Nhôm Dây Silicone - S/M) (MR9X3SA/A)",
+    "description": "- Sở hữu màn hình Rentina 1000 nits hiển thị tốt kể cả trong điều kiện trời nắng\n- Thao tác mượt mà với chip S8 SiP cùng hệ điều hành WatchOS mới nhất\n- Phát hiện va chạm, tự động phát cảnh báo và gửi vị trí cho người thân khi phát hiện tai nạn\n- Dễ dàng theo dõi sức khoẻ với chức năng: cảm biến nhịp tim, theo dõi giấc ngủ, chu kỳ kinh nguyệt,...\n- Dây đeo cao su êm ái, ôm tay cho cảm giác thoải mái",
+    "price": 5990000,
+    "brand": "APPLE",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/65/NPP_Dys5wDn_SGo_n_nha6i_eKmM0ANV.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/65/apple-watch-se-2022-40mm-den-xan.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/65/j9G2mO1dxfQPNguqfnYS-H2a77t9ZqLo.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/65/sCk-XQDhQNa8sHhzfn7HhQyuFO7Fglx2.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f085"
+    },
+    "name": "Đồng hồ thông minh Garmin Fenix 7 Saphhire, Solar ĐH GPS, SEA (010-02540-47)",
+    "description": "- Thiết kế thể thao siêu bền, có màn hình lớn 1,3 inch hỗ trợ sạc bằng năng lượng mặt trời với kích thước 47 mm.\n- Đồng hồ được kiểm tra theo các tiêu chuẩn quân sự của Hoa Kỳ về khả năng chống nhiệt, chống sốc và chống nước.\n- Tăng cường pin từ ánh sáng mặt trời để bạn có thể sử dụng lâu hơn giữa các lần sạc.\n- Biết rõ hơn với nhịp tim dựa trên cổ tay và Pulse Ox.\n- Sạc bằng năng lượng mặt trời mang lại thời lượng pin lên đến 22 ngày ở chế độ đồng hồ thông minh.",
+    "price": 19900000,
+    "brand": "GARMIN",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/61/garmin-fenix-7-sapphire-solar-gp.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/61/PcIVg-3NCjeqv7x4tA4xnIdM01fdFjTP.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/61/oOXrcTf8inv0aiEZP-JtDDAnsTEHREgJ.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/61/screenshot.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f088"
+    },
+    "name": "Đồng hồ Apple Watch Series 9 4G 45mm Midnight (Vỏ Nhôm Dây Silicone - S/M) (MRMC3SA/A)",
+    "description": "- Màn hình Retina Luôn Bật sáng hơn với mặt trước bằng kính chống nứt, bền bỉ\n- Nhận thông tin chuyên sâu về sức khỏe thể chất và tinh thần của bạn, bao gồm nhịp tim, tâm trạng và hơn thế nữa\n- Với các chỉ số tập luyện và chế độ xem tiên tiến\n- S9 SiP hoàn toàn mới mang đến một cách mới kỳ diệu để tương tác với đồng hồ của bạn\n- Các tính năng an toàn đột phá bao gồm SOS Khẩn Cấp, Phát Hiện Ngã và Phát Hiện Va Chạm",
+    "price": 12990000,
+    "brand": "APPLE",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/64/kXl-G3WX8MZoDFHGYJEj442Zi2gPU9BD.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/64/scre.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/64/screenshot.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/64/0whxjWm-fZKVuxXy---iIKGJsIL9ROG6.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f08a"
+    },
+    "name": "Đồng hồ thông minh Garmin Venu 2S, GPS, Wi-Fi, Vàng Champagne, KOR/SEA, 010-02429-71",
+    "description": "- Theo dõi sát sao các thống kê sức khỏe cụ thế và hiểu rõ hơn về trạng thái thể chất mọi lúc\n- Đa dạng hóa bài tập với hơn 25 bộ môn thể thao được tải sẵn.\n- Cá nhân hóa kế hoạch tập luyện theo khả năng của riêng bạn với Garmin Coach. Đồng thời, giãn cơ thú vị hơn với các bài tập động được cài sẵn ngay trên đồng hồ\n- Lưu trữ nhạc trực tiếp trên Venu 2S và tự tin bỏ lại chiếc điện thoại cồng kềnh phía sau.",
+    "price": 9990000,
+    "brand": "GARMIN",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/66/f7-8ByCRhB-zahrjVUa4q3FRnsGGVho6.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/66/p_69249_Garmin-Venu-2S-010-02429.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/66/screenshot.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/66/venu-2s-4-2.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f08b"
+    },
+    "name": "Đồng hồ thông minh Samsung Galaxy Watch 5 LTE 44mm (Xám) (SM-R915FZAAXXV)",
+    "description": "- Tự kết nối internet, điều khiển, nghe, gọi mà không cần đến smartphone\n- Bền bỉ, sang trọng với khung viền Titan, mặt đồng hồ tinh thể Sapphire\n- Màn hình SUPER AMOLED 1.4 inch cho hiển thị sống động và sắc nét\n- Hệ thống GPS, Glonass, Galileo, BDS dẫn đường mọi cuộc phiêu lưu\n- Theo dõi sức khỏe toàn diện: nhịp tim, lượng calo, mức độ stress,v.v\n- Bộ vi xử lý Exynos W920 hiệu suất mạnh mẽ, tiết kiệm pin - Kháng nước 5ATM",
+    "price": 7650000,
+    "brand": "SAMSUNG",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/67/1660363783957-vn-galaxy-watch5-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/67/vn-galaxy-watch5-44mm-431130-sm.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/67/z4119483600859-8eeccfbf6e651ccdf.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/67/samsung-galaxy-watch5--232175.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f08d"
+    },
+    "name": "Đồng hồ thông minh Asus VivoWatch 5",
+    "description": "- Đo huyết áp, theo dõi tim mạch\n- Theo dõi sức khỏe 24/7 để đưa ra phác đồ tham khảo cho bác sĩ tư vấn điều trị tim mạch và huyết áp thông qua App HealthConnect\n- Theo dõi hô hấp và nhiệt độ\n- Đo lường chất lượng giấc ngủ\n- Theo dõi luyện tập thể dục\n- Thông tin chi tiết về sức khỏe phù hợp từng người dùng\n- Thiết kế thời trang với vỏ thép không gỉ\n- Dây đeo có thể tháo lắp nhanh, thời lượng pin lên đến 14 ngày",
+    "price": 5490000,
+    "brand": "ASUS",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/69/theo-doi-suc-khoe-asus-vivowatch.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/69/277636-600x600.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/69/ASUS-VivoWatch-5-HC-B05-gia-re-t.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/69/theo-douc-khoe-asus-vivowatch.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f08e"
+    },
+    "name": "Đồng hồ thông minh Samsung Galaxy Watch 4 40mm (Vàng) (SM-R860NZDAXXV)",
+    "description": " - Thiết kế liền mạch, sành điệu Kính cường lực Gorilla Glass Dx+, dây silicone\n- Cấu hình mạnh mẽ Chip Exynos W920 tốc độ nhanh\n- Định vị GPS chính xác Cảm biến GPS có độ nhạy cao\n- Các tiện ích sức khỏe Đo nhịp tim, SpO2, theo dõi giấc ngủ,...\n-Sạc không dây tiện lợi Dung lượng pin 247 mAh, sử dụng trong 1.5 ngày",
+    "price": 6190000,
+    "brand": "SAMSUNG",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/70/GS.009166_FEATURE_106985.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/70/GS.009166_FEATURE_106987.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/70/screenshot.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/70/screnshot.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f087"
+    },
+    "name": "Đồng hồ Apple Watch Series 9 GPS 45mm Pink (Vỏ Nhôm Dây Vải) (MR9J3SA/A)",
+    "description": "- Màn hình Retina Luôn Bật sáng hơn với mặt trước bằng kính chống nứt, bền bỉ\n- Nhận thông tin chuyên sâu về sức khỏe thể chất và tinh thần của bạn, bao gồm nhịp tim, tâm trạng và hơn thế nữa\n- Với các chỉ số tập luyện và chế độ xem tiên tiến\n- S9 SiP hoàn toàn mới mang đến một cách mới kỳ diệu để tương tác với đồng hồ của bạn\n- Các tính năng an toàn đột phá bao gồm SOS Khẩn Cấp, Phát Hiện Ngã và Phát Hiện Va Chạm",
+    "price": 10490000,
+    "brand": "APPLE",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/63/-IL4mvNFDp4CzoF6UOPu-IeTzZYVoY1U.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/63/connect_hero_back__doeyov1j9haq.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/63/tbYgrB1GVscwP_rhj1GPE-soCZy2CtdQ.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/63/uovGkdxqXvrM2D0uomomxp9FQhw7J_zN.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f08c"
+    },
+    "name": "Đồng hồ thông minh ASUS VivoWatch SP (HC-A05)",
+    "description": "- Cảm biến nhịp tim ECG cho phép đo huyết áp và điện tâm đồ ngay trên đồng hồ\n- Trang bị công nghệ NFC giúp mở khoá thiết bị thông minh như khoá cửa\n- Hỗ trợ các tính năng theo dõi sức khoẻ:Đo oxy trong máu,đo mức độ stress,lượng calo tiêu thụ...\n- Viên pin 200mah, sạc đầy trong 30 phút cho thời gian sử dụng lên đến 10 ngày\n- Thoải mái bơi lội với chuẩn chống nước 5 ATM\n- Tích hợp hệ thống GPS trong đồng hồ,theo dõi quãng đường luyện tập mà không cần kết nối với điện thoại",
+    "price": 7490000,
+    "brand": "ASUS",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/68/ASUS-VivoWatch-SP-HC-A05-chinh-h.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/68/P-HC-A05-chinh-h.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/68/oWatch-SP-HC-A05-chinh-h.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/68/B%E1%BA%A3n%20sao%20ASUS-VivoWatch-SP-HC-A05-chinh-h.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8563af18239ff9bcbcd33"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f094"
+    },
+    "name": "Sạc nhanh Pisen Quick ice Crystal PD 30W (Lightning)",
+    "description": "- Giao diện Type-C\n- Công suất tổng 30W\n- Công nghệ sạc nhanh PD\n- Kiểm soát nhiệt độ\n- Thiết kế nhỏ gọn nhẹ",
+    "price": 649000,
+    "brand": "PISEN",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/76/YuWFzZu3FfrmiwpwBt3_L8SMsnFneyev.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/76/screenshot.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/76/vuQPn-DljK27o8TtLsmbTu1dGrFISaEn.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/76/wwxk14eH1EaI3if7yk7zdzMpen_ao67c.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f093"
+    },
+    "name": "Sạc điện thoại Belkin 12W USB A CA002dqWH (Trắng)",
+    "description": "- Thiết kế nhỏ gọn, nhiều màu sắc trẻ trung, dễ dàng cất giữ khi đi du lịch.\n- Trọng lượng nhẹ, dễ dàng mang theo bên người.\n- Sử dụng đơn giản, bạn chỉ việc cắm cáp USB và thiết bị vào Adapter là có thể thoải mái sạc.\n- Sạc điện có thể dùng cho smartphone và tablet.",
+    "price": 329000,
+    "brand": "BELKIN",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/75/00hl5B97uiHZPtDKT3bCcTXQMIpZm_n5.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/75/N21zTYdeW_lwoqE0GDR9It-pxejMrYLV.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/75/adapter-sac-12w-belkin-wca002-tr.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/75/screenshot.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f095"
+    },
+    "name": "Sạc điện thoại Belkin 108W USB-C PD +2xUSB-A GaN WCH010dqWHJP (Trắng)",
+    "description": "- Bộ sạc GaN 4 cổng bao gồm 2x cổng USB-C và 2x USB-A\n- Sạc tối đa 4 thiết bị với tổng công suất đầu ra 108W\n- Công nghệ GaN tích hợp cung cấp năng lượng cao, sạc hiệu quả\n- Chia sẻ nguồn điện thông minh nhận biết nhu cầu điện năng và phân phối đầu ra phù hợp cho tối đa 4 thiết bị\n-Hỗ trợ nhiều loại thiết bị bao gồm máy tính xách tay, điện thoại thông minh, máy tính bảng, ... của Samsung, Apple, ...",
+    "price": 1990000,
+    "brand": "BELKIN",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/77/BXm_VpSlbW2bEN8pXOmSNPHhlhcxGlF8.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/77/DciAuf51Jc_KPjUvk2hJBTpenNhCAUMi.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/77/coc-sac-dien-thoai-type-c-108w-b.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/77/screenshot.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f08f"
+    },
+    "name": "Bộ sạc nhanh Samsung 45W Type C, Đen (Kèm cáp) (EP-T4510XBEGWW)",
+    "description": "- Thiết kế nhỏ gọn, sang trọng dễ dang mang theo để sử dụng\n- Sở hữu công nghệ sạc siêu nhanh PD – Power Delivery công suất lên đến 45W\n- Nguồn điện vào : 100 - 240v\n- Output : 2.77A(9V) / PPS : 3.0A(3.3-5.9V) or 2.25A(3.3-11.0V)",
+    "price": 1190000,
+    "brand": "SAMSUNG",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/71/6_22_45.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/71/imag.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/71/image.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/71/samsung_3.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f091"
+    },
+    "name": "Sạc Macbook Apple Zin USB-C 61W 2016",
+    "description": "Bộ cấp nguồn Adaptor Apple 2016 61W USB-C Zin",
+    "price": 1867000,
+    "brand": "APPLE",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/73/82151.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/73/sac-laptop-adapter-apple-2016-61.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/73/Mo-ta-san-pham-sac-apple-61w-usb.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/73/apple-61w-usb-c-power-adapter-10.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f090"
+    },
+    "name": "Sạc Laptop Asus 19V-1.75A-33W (Đầu số 4) (4.0mm*1.35mm) (NQ)",
+    "description": "- Bộ cấp nguồn/ Adaptor Asus 19V-1.75A (Đầu số 4)",
+    "price": 410000,
+    "brand": "ASUS",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/72/17Dl505BaYuXULk2-nB6qDcp4_yzLcBb.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/72/-N5_m0NWQwqnFLYteCjS6RyUP5tnFykS.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/72/6qy6pIuB864kr_3bnP9aq3tXlgbvFXDO.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/72/EwS0kY0agJS4DQiUGd7fdk-h2Htmyt4M.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f092"
+    },
+    "name": "Bộ củ cáp sạc TypeC to Lightning Remax RP-U68 2 cổng sạc nhanh (PD20w + QC18w)",
+    "description": "- Kích thước nhỏ gọn: 5.79 x 2.73 x 4.26 cm - 0.04 Kg\n- Chất liệu vỏ nhựa PC bền bĩ, thân thiện môi trường\n- Công suất ra tối đa đến 20W (USB-A 18W, USB-C 20W)",
+    "price": 250000,
+    "brand": "REMAX",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/74/B%E1%BA%A3n%20sao%20jLSiyyM9_qMRlSglTJgCLrEGQqXmE2ax%202.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/74/B%E1%BA%A3n%20sao%20jLSiyyM9_qMRlSglTJgCLrEGQqXmE2ax.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/74/QSUo5tNvcocipl_2pcbe9y_W-R1iYYrv.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/74/jLSiyyM9_qMRlSglTJgCLrEGQqXmE2ax.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f097"
+    },
+    "name": "Bộ sạc Apple Magsafe Charger to USB-C Cable 1m",
+    "description": "Bộ Sạc MagSafe khiến cho việc sạc không dây trở nên cực kỳ dễ dàng. Các nam châm cân chỉnh vị trí sạc này gắn với iPhone 12 trở lên, giúp sạc không dây nhanh hơn với công suất lên đến 15W.\nBộ sạc MagSafe tương thích với bộ sạc Qi, vì vậy bộ sạc này có thể được dùng để sạc không dây iPhone 8 hoặc các phiên bản cao hơn cũng như các phiên bản AirPods có hộp sạc không dây, tương tự như cách sử dụng các bộ sạc không dây chuẩn Qi.\nKhả năng cân chỉnh vị trí bằng nam châm chỉ có ở các phiên bản iPhone 12, iPhone 13, iPhone 14 và iPhone 15.",
+    "price": 1199000,
+    "brand": "APPLE",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/79/MHXH3.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/79/MHXH3_AV1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/79/MHXH3_AV2.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/79/MHXH3_AV3.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f098"
+    },
+    "name": "Sạc Laptop Asus 19V-2.37A",
+    "description": "- Bộ cấp nguồn/ Adaptor Asus 19V-2.37A",
+    "price": 400000,
+    "brand": "ASUS",
+    "rating": 4.8,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/80/screenshot.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/80/adapter-laptop-asus-19v-2.37a-45.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/80/WT_xjr23og3DzI-E9v1gTzTiLpunne88.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/80/B_EPpyzwYSSbIztc778PXgIiTa_7h9g4.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f096"
+    },
+    "name": "Cáp sạc Apple USB-C dây dù Woven Charge Cable (1m) (MQKJ3ZA/A)",
+    "description": "- Cáp chính hãng tương thích với các thiết bị Apple\n- Dây bện vải chắc chắn chống đứt gãy\n- Hỗ trợ sạc nhanh qua cổng Type-C\n- Độ dài 1m phù hợp để dùng ở nhiều vị trí",
+    "price": 500000,
+    "brand": "APPLE",
+    "rating": 5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/78/hA-QSFbE1mDHGxEP3TDNIMx5_ATd9Q6C.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/78/c_p_apple.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/78/MQKJ3_AV1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/78/usb-type-c-cable-1-m-type-c-to-t.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85643f18239ff9bcbcd35"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f099"
+    },
+    "name": "Pin Dự Phòng Mazer Infinite Boost Mag Stand Mini Qi Wireless 10000mAh/15W (M-MagAir12)",
+    "description": "- Sạc điện thoại với công suất PD 20W - QC3.0, Qi Wireless 15W.\n- Kéo dài thời gian sử dụng điện thoại trong 2-3 ngày với dung lượng sạc 10.000mAh.\n- Nhỏ gọn, dễ mang theo khi di chuyển.\n- Tích hợp chân chống tiện lợi.\n- Công suất 20W được cung cấp qua cả cổng USB-A và USB-C.\n- Chế độ M-Charge cho thiết bị tiêu thụ điện năng thấp hơn, sạc hít dính vào điện thoại.",
+    "price": 990000,
+    "brand": "MAZER",
+    "rating": "4.9/5",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/81/image.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/81/pin_mazer_MagAir12_2.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/81/pin_mazer_MagAir12_3.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/81/us4D_8ge6Gg8Wy4CRNpoOaovMGYKnK1W.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f09d"
+    },
+    "name": "Pin sạc dự phòng không dây Cheero Che-098 (6000mAh/ Đen)",
+    "description": "- Thương hiệu: Cheero \n- Dung lượng: 6000mAh \n- Tích hợp sạc không dây",
+    "price": 390000,
+    "brand": "CHEERO",
+    "rating": "4.3",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/84/pin-du-phong-khong-day-cheero-po.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/84/2aS4qr4V4Dodm2K88CXw-EuJSKCFGSQU.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/84/MF8ls1UI7pGjdv_Qm73bUAVnevuyOsO9.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f09b"
+    },
+    "name": "Pin sạc dự phòng không dây Baseus Magnetic Mini Fast Charge Type-C Edition 10000mAh 30W - Màu trắng",
+    "description": "- Thiết kế nhỏ gọn, tiện dụng\n- Công nghệ sạc nhanh có dây với công suất 30W\n- Công nghệ sạc không dây Magsafe với công suất tối đa 15W\n- Đầu vào Type-C: 5V-3A, 9V-2A, 12V-1.5A\n- Đầu ra Type-C : 5V-3A, 9V-3A, 12V-2.5A, 15V-2A\n- Đầu ra iP: 5V-2.4A, 9V-2.22A, 12V-1.5A",
+    "price": 820000,
+    "brand": "BASEUS",
+    "rating": "4.9",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/82/0__4__9cd7ec436cb64dccbc8a263a41.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/82/0a8f56ba9de9e4a7576e1441a8de8ebb.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/82/pin-sac-du-phong-baseus-magnetic.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/82/pin-sac-du-phong-khong-day-baseu.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f09e"
+    },
+    "name": "Pin sạc dự phòng Baseus Bipow 10000mAh, 20W (Đen)",
+    "description": "- Màn hình LED tiện lợi, nhiều cổng kết nối\n- Pin sạc với thiết kế màu đen sang trọng \n- Sạc dự phòng Baseus Bipow cũng được trang bị một hệ thống cổng kết nối khá đa dạng với đầu vào Micro và USB-C trong khi đó đầu ra là USB-C, USB-1 và USB-2.\n- Sạc nhanh công suất 20W, tương thích nhiều thiết bị",
+    "price": 499000,
+    "brand": "BASEUS",
+    "rating": "4.7",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/85/pin-du-phong-baseus-elf-digital.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/85/vv.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/85/pin-sac-du-phong-os-baseus-airpo.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/85/sac-du-phong-baseus-bipow-10000m.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a0"
+    },
+    "name": "Sạc dự phòng PISEN QUICK High Power Box 10000mAh 22.5W - OWN (Đen)",
+    "description": "- Đầu vào: Type c 5v2.4a 9v2a 12v1.5a , AC 100-240v 50/60hz 0.35a\n- Đầu ra : 5v3a max, công suất cực đại 22.5w\n- Chế độ sạc tường : Giao diện và cáp 5v2a, Tổng đầu ra 5v2a max\n- Công suất cực đại: 10W\n- Dung lượng pin: 10000maH - 37wh, 9200mah( mặc định) 34.04wh\n- Cơ chế bảo vệ: Bảo vệ quá tải, Quá áp, Quá dòng, Quá xả, Ngắn mạch, Quá nhiệt, Quá điện\n- Thời gian sạc: 2-4h ( bộ sạc 18w)\n- Giao thức hộ trợ : pd3.0, qc3.0, fcp, afc, apple2.4a và các giao thức khác",
+    "price": 690000,
+    "brand": "PISEN",
+    "rating": "4.7",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/87/0a7fe9051a8f814d31b506507f22c162.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/87/Khong-co-tieu-de4.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/87/ce84db2ccca90a4ab1228a66907e2ff8.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/87/pVSSgoMtMIQbdt-LYywMvNRmAtO42rSQ.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a1"
+    },
+    "name": "Sạc dự phòng PISEN QUICK High Power Box 10000mAh 22.5W - OWN (Đen)",
+    "description": "- Đầu vào: Type c 5v2.4a 9v2a 12v1.5a , AC 100-240v 50/60hz 0.35a\n- Đầu ra : 5v3a max, công suất cực đại 22.5w\n- Chế độ sạc tường : Giao diện và cáp 5v2a, Tổng đầu ra 5v2a max\n- Công suất cực đại: 10W\n- Dung lượng pin: 10000maH - 37wh, 9200mah( mặc định) 34.04wh\n- Cơ chế bảo vệ: Bảo vệ quá tải, Quá áp, Quá dòng, Quá xả, Ngắn mạch, Quá nhiệt, Quá điện\n- Thời gian sạc: 2-4h ( bộ sạc 18w)\n- Giao thức hộ trợ : pd3.0, qc3.0, fcp, afc, apple2.4a và các giao thức khác",
+    "price": 690000,
+    "brand": "PISEN",
+    "rating": "4.7",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/88/0a7fe9051a8f814d31b506507f22c162.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/88/Khong-co-tieu-de4.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/88/ce84db2ccca90a4ab1228a66907e2ff8.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/88/pVSSgoMtMIQbdt-LYywMvNRmAtO42rSQ.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f09f"
+    },
+    "name": "Pin sạc dự phòng Energizer 20.000mAh/ 3.7V Li-Ion - UE20028PQGY (Xám)",
+    "description": "- Thiết kế vỏ ngoài bằng kim loại, thon dài & vô cùng chắc chắn. - Pin dung lượng cao 20,000 mAh, hỗ trợ 2 cổng USB và 1 cổng USB-C output giúp sạc 3 thiết bị cùng lúc - Tích hợp sạc nhanh 2 chiều Input & Output với cổng USB-C PD giúp tiết kiệm thời gian sạc",
+    "price": 1100000,
+    "brand": "Energizer",
+    "rating": "4.3",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/86/20.-Pin-s%E1%BA%A1c-d%E1%BB%B1-ph%C3%B2ng-Energizer-2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/86/21.-Pin-s%E1%BA%A1c-d%E1%BB%B1-ph%C3%B2ng-Energizer-2.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/86/SUpWsxjhpKyXAOZnQ9A-p5uND_nY1aVE.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/86/ruObK5xtmu2Yvoae-HmMWCsMxIpdOi2L.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f09a"
+    },
+    "name": "Pin sạc dự phòng Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro -BHR5785GL (Xanh)",
+    "description": "-  Thời gian sạc đầy: Khoảng 2.7 giờ sử dụng bộ sạc 5V/2A, 5.2 giờ sử dụng bộ sạc nhanh 18W trở lên\n-  Lõi pin: pin lithium-ion\n- Đầu vào: 5V/3V,9V/2.5A, 12V/1.8A\n- Đầu ra: USB-A tối đa: 5V/3V, 9V/2.23A, 12V/1.67A, 10V/2.25A;  Type-C tối đa: 5V/3V, 9V/2.23A, 12V/2.25V, 11V/3A\n- Khả năng tương thích với nhiều thiết bị MacBooks, tablets và Switches",
+    "price": 890000,
+    "brand": "XIAOMI",
+    "rating": "4.6",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/93/190883-1_xiaomi-33w-power-bank-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/93/Zd0p7MJ-ktbcfyIADiZ63M5O0OwGMGhO.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/93/63cfe0d228568_xiaomi-33w-power-b.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/93/group_148_1_1.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a2"
+    },
+    "name": "Pin sạc dự phòng Xiaomi Mi 3 10000mAh VXN4274GL (Đen)",
+    "description": "Dung lượng: 10,000mAh\nInput: 1x MicroUSB, 1x USB Type-C\nOutput: 2x USB-A",
+    "price": 490000,
+    "brand": "XIAOMI",
+    "rating": "4.1",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/89/QD4wD1je9vN5lN0SVILzH_O8KK63tLS5.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/89/XIAOMI%20MI%203%20VXN4274GL-oneway-4.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/89/9383_pin_sac_du_phong_xiaomi_100.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/89/pb100d-4000-04.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f09c"
+    },
+    "name": "Pin Sạc Dự Phòng Aukey PB-N42 (10000mAh/Black/Kèm Đèn Led 5V/2.1A)",
+    "description": "- Thương hiệu: Aukey - dung lượng: 10.000mAh.",
+    "price": 439000,
+    "brand": "AUKEY",
+    "rating": "4.5",
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/83/90.-Pin-s%E1%BA%A1c-d%E1%BB%B1-ph%C3%B2ng-AUKEY-PB-N4.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/83/VSyrta8JgiJpFCmVK-IVdt2m8IbzWccH.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/83/screenshot.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/83/pin-du-phong-aukey-pb-n42-pocket.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8564cf18239ff9bcbcd37"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a8"
+    },
+    "name": "Máy quét/ Scanner HP 2000 S2 (6FW06A)",
+    "description": "- Máy Scan dạng nạp giấy rời\n- Tốc độ in lên đến 35 trang/phút\n- 70 ảnh/phút- Kết nối tiêu chuẩn USB 3.0",
+    "price": 7190000,
+    "brand": "HP",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/96/p_50761_HP-ScanJet-Pro-2000-s2-S.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/96/6348_may_quet_hp_scanjet_pro_200.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/96/55839_may_quet_hp_scanjet_pro_20.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/96/2MkPEJfCaDwa831ZD-ary2NiC8cExPrG.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0ac"
+    },
+    "name": "Máy quét/ Scanner Epson DS-570WII",
+    "description": "- Quét ở tốc độ lên tới 35 trang/phút/70 hình/phút\n- Quét lên tới A4\n- Quét từ 27gsm đến 413gsm\n- Tùy chọn mặt phẳng với Flatbed Dock và Perfection V39",
+    "price": 10790000,
+    "brand": "EPSON",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/100/77458_may_scan_epson_ds_570wii_2.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/100/M%C3%A1y-qu%C3%A9t-t%C3%A0i-li%E1%BB%87u-Epson-DS-570WI.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/100/46877_epson_workforce_ds_570wii.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/100/may-scan-tai-lieu-epson-ds-570wi.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a4"
+    },
+    "name": "Máy in đa chức năng HP LaserJet M440n MFP,1Y WTY_8AF46A",
+    "description": "- Máy in đa chức năng HP LaserJet M440n MFP, được thiết kế đơn giản phù hợp với các văn phòng\n- Tích hợp các chức năng : In (print), sao chép (copy) và quét (scan) màu\n- Với tốc độ 24 trang /phút, với khổ giấy tối đa khổ A3. \n- Ngoài ra máy in đa chức năng Hp Laserjet MFP M440N còn tích hợp tính năng kết nối qua mạng Lan giúp bạn kết nối dễ dàng các thiết bị với nhau",
+    "price": 14990000,
+    "brand": "HP",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/91/1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/91/54971_may_in_mau_da_chuc_nang_hp.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/91/58npAhaPVc9dpBL0Ke7_Fy81IyaijAdI.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/91/screenshot.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a7"
+    },
+    "name": "Máy in laser trắng đen BROTHER DCP-L2520D",
+    "description": "- Máy in Trắng đen, Loại mực : Mực in laser đen, Chức năng: In,Scan,Copy\n- Độ phân giải: 2400 x 600 dpi, Tốc độ in trắng đen: 30 trang/phút, In 2 mặt tự động\n- Độ phân giải bản sao: 600 x 600 dpi Thu nhỏ/phóng to bản sao: 25% - 400%\n- Bộ nhớ: 32 MB, Khổ giấy: A4, Letter, Legal, A5 - Định dang tập tin: JPEG, PDF, Độ phân giải scan: 2400 x 600 dpi\n- Kết nối: USB 2.0\n- Tương thích: Windows 7/ 8/ 8.1/ 10, OS X v10.7.5, OS X v10.8.x, OS X v10.9.x",
+    "price": 4490000,
+    "brand": "BROTHER",
+    "rating": 4.1,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/95/-wM8sdG.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/95/10029177-may-in-laser-brother-dc.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/95/2520.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/95/tixlomm6.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a9"
+    },
+    "name": "Máy quét/ Scanner Epson DS-C330",
+    "description": "- Máy quét nhỏ gọn , quét lên tới khổ A4\n- Tốc độ quét nhanh lên tới 30 trang/phút / 60 hình/phút\n- Quét linh hoạt với chế độ Quét đường dọc và đường thẳng\n- Quét các loại phương tiện khác nhau bao gồm phong bì, giấy dài và thậm chí cả hộ chiếu\n- Kích thước: 29.6 x 10.4 x 12.5 cm",
+    "price": 6390000,
+    "brand": "EPSON",
+    "rating": 4,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/97/CrpsggIZw6xksPeA-mriTBdED1oidxQx.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/97/77456_may_scan_epson_ds_c330.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/97/46884_m__y_scan_epson_ds_c330__2.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/97/46884-m-y-scan-epson-ds-c330-4.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a3"
+    },
+    "name": "Máy in laser màu BROTHER MFC-L8690CDW",
+    "description": "- Chức năng: In, Scan, Copy, Fax\n- Độ phân giải: 2400 x 600 dpi\n- In 2 mặt tự động\n- Kết nối: USB 2.0, LAN, Wireless, In từ thiết bị di động",
+    "price": 15790000,
+    "brand": "BROTHER",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/90/AmeHwv8cQ_8M6vJ5ub8jZnY96z2BMuEm.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/90/may-in-brother-mfc-l8690cdw-da-c.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/90/p_12102_Brother-MFC-L8690cdw.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/90/rother-MFC-L8690CDW.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0aa"
+    },
+    "name": "Máy scan Canon Lide 300",
+    "description": "- Máy quét tài liệu và ảnh mặt kính phẳng - Độ phân giải quét: 2,400 x 2,400dpi - Tốc độ quét (A4, 300dpi): Xấp xỉ 10 giây",
+    "price": 2090000,
+    "brand": "CANON",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/98/1688611428_lide00.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/98/lide-300-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/98/lide-300-10.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/98/lide-300.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0ab"
+    },
+    "name": "Máy quét/ Scanner HP ScanJet Pro 3600 F1 Scanner (20G06A)",
+    "description": "- Thiết kế nhỏ gọn, tác vụ quét chuyên nghiệp\n- Loại máy quét: ADF, công nghệ quét CIS, giường phẳng\n- Quét tối đa 30 trang hoặc 60 hình ảnh mỗi phút. Hình thành ADF\n- Quét nhiều loại tài liệu bao gồm sách, tạp chí và thẻ ID\n- Khả năng nạp tài liệu tự động: Tiêu chuẩn, 60 tờ",
+    "price": 13690000,
+    "brand": "HP",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/99/-scan-hp-scanjet-pro-3600-f1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/99/44984_hp_scanjet_pro_3600_f1__20.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/99/may-scan-hp-scanjet-pro-3600-f1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/99/picture-01705113851.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a5"
+    },
+    "name": "Máy in phun màu EPSON L1300",
+    "description": "- In Phun 4 màu, khổ A3+, 5.760x1.440dpi.\n- 5 bình mực lớn rời in được 12.800 trang (2 bình đen),\n- Tốc độ in: 30 trang/phút (đen), 17 trang/phút (màu).\n- Kết nối USB 2.0,  tương thích Win 7, Win 8.1, Win 10 (32, 64 bit), Mac OS X.",
+    "price": 12490000,
+    "brand": "EPSON",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/92/44100_chinh_dien_may_in_epson_l1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/92/cung-cap-may-in-phun-mau-epson-l.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/92/may-in-mau-epson-l1300-500x500.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/92/p_13986_EPSON-Stylus-L1300.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0a6"
+    },
+    "name": "Máy in laser trắng đen BROTHER MFC-L2701D",
+    "description": "- Máy in laser đa chức năng (In, Copy, Scan, Fax, PC fax)\n- Tốc độ in: 30 trang/phút\n- Độ phân giải tối đa 2400x600 dpi\n- Bộ nhớ 32MB - In 2 mặt tự động\n- Khổ giấy: A4, Letter, Legal, A5\n- Kết nối USB 2.0",
+    "price": 5590000,
+    "brand": "BROTHER",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/94/10022864-may-in-laser-da-nang-br.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/94/3-164b46e2-67a0-40b4-864f-1a44b6.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/94/ApHandler-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/94/brother-mfc-l2701d-1-500x500.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d85660f18239ff9bcbcd39"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0b5"
+    },
+    "name": "Loa bluetooth JBL Charge 4 (Đen)",
+    "description": "- Kiểu kết nối: Không dây\n- Dung lượng pin: 7500 mAh\n- Chống nước: IPX7\n- Công suất tổng: 30W",
+    "price": 3490000,
+    "brand": "JBL",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/109/Loa_Bluetooth_JBL_Charge_4_30W_1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/109/loa-bluetooth-jbl-charge-4-black.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/109/loa-di-dong-moi-nhat-jbl-flip-6.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/109/loa-jbl-charge-4-black.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0b6"
+    },
+    "name": "Loa Bluetooth Edifier QD35 (Đen)",
+    "description": "- Kiểu dáng đẹp mắt, độc đáo khi được trang bị màn hình LED hiển thị thời gian tiện lợi\n- Bộ khuếch đại kỹ thuật số mạnh mẽ kết hợp cùng chipset DSP cho chất âm mạnh mẽ\n- Cá nhân hoá chế độ nghe nhờ tính năng tự điều chỉnh EQ thông qua Edifier Connect\n- Công suất sạc lên đến 35 W nhờ vào công nghệ sạc hiệu suất cao đến từ TurboGaN",
+    "price": 2990000,
+    "brand": "EDIFIER",
+    "rating": 4.6,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/110/71227_loa_edifier_qd35_mau_den_2.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/110/71227_loa_edifier_qd35_mau_den_5.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/110/QD35-1.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/110/edifier_qd35_den_3_778dd1a69b064.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0b2"
+    },
+    "name": "Loa Bluetooth JBL PARTYBOX ENCORE (Kèm Micro) BENCORE2MICAS (Đen)",
+    "description": "- Thiết kế nhỏ gọn, sống động với dải led màu sắc\n- Công suất lên tới 100W với dải tần số đáp ứng lên tới 45Hz - 20KHz (-6dB)\n- Kết nối không dây 2 loa cùng loại qua công nghệ True Wireless Stereo\n- Kháng nước IPX4 chẳng ngại mưa phùn cho những buổi tiệc ngoài trời thêm vui",
+    "price": 9590000,
+    "brand": "JBL",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/106/2353589654-1657861030-908a33a0-0.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/106/screenshot.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/106/screenshot.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/106/xi02Eo1RRKYVXXksjt-A3hdmb5kzszDJ.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0b4"
+    },
+    "name": "Loa Karaoke Di Động Nova Audio NV-300 Platinum",
+    "description": "- Loa Karaoke Di Động Nova Audio NV-300 Platinum được thiết kế nhỏ gọn và nhẹ\n- Với trọng lượng 9.5kg  phù hợp với nhu cầu di chuyển của người sử dụng. \n- Loa được thước kế bằng gỗ sơn đen MDF chắc chắn chống va đập tốt, phối hợp với bo mạch màu đồng toát lên vẽ sang trọng và đẹp. \n- Công suất tổng : RMS 50W, PMPO 300W. \n- Đi kèm với loa là bộ 2 micro không dây UHF có thể điều chỉnh được tầng số",
+    "price": 3990000,
+    "brand": "NOVA",
+    "rating": 4.2,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/108/6900_loa_karaoke_di_dong_nova_a.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/108/69300_loa_karaoke_di_dong_nova_a.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/108/69300_loa_karaoke_di_dong_nova_a.png",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/108/loa-karaoke-di-dong-nova-audio-n.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0ad"
+    },
+    "name": "Loa Bluetooth JBL Partybox 710",
+    "description": "- Thiết kế mới cực đẹp với đèn led và đèn chớp cực ấn tượng cho những bữa tiệc sôi động\n- Có bánh xe và tay cầm chắc chắn.\n- Âm thanh JBL Original Pro mạnh mẽ với công suất 800W với thiết kế âm thanh mới cho âm trầm sâu hơn.\n- Chống nước IPX4 giúp bạn tổ chức những bữa tiệc ngoài trời\n- Tích hợp đầu vào guitar và mic cho bạn thiết lập buổi biểu diễn nhanh chóng\n- Bluetooth 5.1 mới nhất\n- Cổng USB có thể sạc các thiết bị thông minh hoặc phát nhạc từ các USB chuyên dụng",
+    "price": 18990000,
+    "brand": "JBL",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/101/Loa-JBL-PartyBox-710-2.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/101/Untitled.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/101/jbl-710-vua2hadn.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/101/jbl-partybox-710-11.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0af"
+    },
+    "name": "Loa Bluetooth JBL Party Box On the Go",
+    "description": "- Thiết kế dạng ấn tượng với  dây đeo vai thuận tiện để giữ cho bữa tiệc di chuyển\n- Kèm 2 tay mic JBL chất lượng để hát karaoke tuyệt vời\n- Âm thanh độc quyền của hãng JBL Pro chính xác và chi tiết với bass sâu\n- Công suất 100W\n- Hệ thống mixer trực tiếp cho phép bạn chỉnh âm dễ dàng.\n- Chống nước đạt chuẩn IPX4\n- Pin lên tới 6 giờ",
+    "price": 8500000,
+    "brand": "JBL",
+    "rating": 4.9,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/103/67000_56441_loa_jbl_partybox_on.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/103/Loa-JBL-PartyBox-On-The-Go-3-1-s.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/103/loa-bluetooth-JBL-PartyBox-On-Th.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/103/loa-bluooth-jbl-partybox-on-th.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0b0"
+    },
+    "name": "Loa Bose Soundlink Mini II SE - Đen (835799-0100)",
+    "description": "- Công nghệ hiện đại tái hiện âm thanh chi tiết, sâu trầm\n- Loa thế hệ mới với tốc độ kết nối Bluetooth nhanh\n- Trang bị Microphone giúp bạn trả lời hoặc gọi đi dễ dàng\n- Phạm vi kết nối không dây 9m, âm thanh được lan tỏa hiệu quả\n- Thiết kế kèm theo USB-C hỗ trợ sạc đầy pin loa nhanh chóng\n- Kích thước nhỏ gọn, thuận tiện di chuyển trong các chuyến đi\n- Kiểu dáng hiện đại đi cùng gam màu bạc sang trọng, cá tính",
+    "price": 4490000,
+    "brand": "BOSE",
+    "rating": 4.3,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/104/045250-loa-bluetooth-bose-soun.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/104/10045250-loa-bluetooth-bose-soun.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/104/Bose-Soundlink-mini-2-antien.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/104/loa-bose-soundlink-mini-ii-se-1.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0b3"
+    },
+    "name": "Loa Bluetooth Sony SRS-XE300/BC E (Đen)",
+    "description": "- Âm thanh rộng hơn với Bộ khuếch tán hình dạng đường thẳng\n- Bộ loa X-Balanced cho âm thanh mạnh mẽ và rõ ràng \n- Chống nước và chống bụi IP67 \n- Thời lượng pin lên đến 24 giờ và sạc nhanh \n- Kích thước di động bạn có thể mang đi mọi nơi",
+    "price": 4100000,
+    "brand": "SONY",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/107/GS.009678_FEATURE_113803.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/107/GS.009678_FEATURE_113805.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/107/loa-bluetooth-sony-srs-xe300-den.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/107/loa-bluetooth-sony-srs-xe300-den.png"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0ae"
+    },
+    "name": "Bộ loa thanh Samsung HW-Q930C/XV 540W",
+    "description": "- Kiểu dáng thanh lịch, hiện đại, sử dụng như vật dụng trang trí trong phòng.\n- Tái tạo âm thanh mạnh mẽ, sống động với tổng công suất 540W, 9.1.4 kênh.\n- Công nghệ Dolby Atmos/DTS:X mang đến âm thanh vòm tràn khắp phòng.\n- Công nghệ Q-Symphony 3.0 đồng bộ loa thanh và loa tivi cho âm thanh tuyệt vời.\n- Khuếch đại âm lượng hội thoại, nghe rõ giọng nói với công nghệ AVA (Active Voice Amplifier).",
+    "price": 14490000,
+    "brand": "SAMSUNG",
+    "rating": 4.7,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/102/xv-540w-11.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/102/wjz1692864755.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/102/xv-540w-4.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  },
+  {
+    "_id": {
+      "$oid": "65db0b69f08a93058c07f0b1"
+    },
+    "name": "Loa Tháp Samsung MX-T70",
+    "description": "- Tính Năng Bass Booster\n- Hiệu ứng đèn LED DJ\n- Ứng dụng Sound Tower sẽ giúp kiểm soát  hiệu ứng ánh sáng và âm thanh\n- Kháng Nước Tối Ưu\n- Tính năng Group Play kết nối nhiều loa tháp Samsung với nhau\n- Chế Độ Karaoke",
+    "price": 4390000,
+    "brand": "SAMSUNG",
+    "rating": 4.5,
+    "numberReviews": 0,
+    "images": [
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/105/10044877-loa-thap-samsung-mx-t70.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/105/loa-thap-samsun_main_735_450.png.jpg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/105/loa-thap-samsung-mx-t70-xv-5.jpeg",
+      "https://cdn.jsdelivr.net/gh/lecaotanloc289/ecommerce_data_4students@main/backup/images/products/105/samsung-mx-t70-xv-8-org.jpeg"
+    ],
+    "quantity": 100,
+    "category": {
+      "$oid": "65d8566ef18239ff9bcbcd3b"
+    },
+    "isBestSeller": false
+  }
+]
