@@ -1,4 +1,4 @@
-# ecommerce_data
+# ecommerce_data_4students
 
 Dữ liệu export MongoDB (`database.category.json`, `database.products.json`) và bản backup ảnh từ Firebase Storage (`elma-ecommerce-98c30.appspot.com`).
 
