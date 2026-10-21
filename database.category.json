@@ -1,0 +1,79 @@
+[
+    {
+        "_id": {
+            "$oid": "65d852ec2f1bfc3c4ffc6675"
+        },
+        "name": "Smartphone",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/category%2Ficons%2F1710865329390phone.png?alt=media&token=857221db-6d4c-4e78-a30a-38dbd1834be5"
+    },
+    {
+        "_id": {
+            "$oid": "65d853192f1bfc3c4ffc6676"
+        },
+        "name": "Laptops",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2Flaptop.png?alt=media&token=e3911a62-99ba-4ec5-97f4-b439b5d285d5"
+    },
+    {
+        "_id": {
+            "$oid": "65d85595f18239ff9bcbcd2b"
+        },
+        "name": "Desktop Computer",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2Fcomputer.jpg?alt=media&token=e6ff4f1f-15b5-4467-bdb2-6dd742e832e3"
+    },
+    {
+        "_id": {
+            "$oid": "65d855a2f18239ff9bcbcd2d"
+        },
+        "name": "Headphones",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2FHeadphones.png?alt=media&token=cb77cd1b-dcdd-499a-97f4-2f984d8cfe2a"
+    },
+    {
+        "_id": {
+            "$oid": "65d85626f18239ff9bcbcd2f"
+        },
+        "name": "Cameras",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2FCameras.png?alt=media&token=ab5d79ae-0853-445b-8cad-27537ff22740"
+    },
+    {
+        "_id": {
+            "$oid": "65d85632f18239ff9bcbcd31"
+        },
+        "name": "Television",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/category%2Ficons%2F1710865365570television.png?alt=media&token=4fbfb345-1761-4f84-ab95-c4cd4fe8a054"
+    },
+    {
+        "_id": {
+            "$oid": "65d8563af18239ff9bcbcd33"
+        },
+        "name": "Smartwatches",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2FSmartwatches.jpg?alt=media&token=e8621c1b-346f-4d53-b6fd-8313e872b685"
+    },
+    {
+        "_id": {
+            "$oid": "65d85643f18239ff9bcbcd35"
+        },
+        "name": "Chargers",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2FChargers.png?alt=media&token=5c78f641-d529-4e1e-b510-bd9adb51e86c"
+    },
+    {
+        "_id": {
+            "$oid": "65d8564cf18239ff9bcbcd37"
+        },
+        "name": "Power Banks",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2FPower%20Banks.png?alt=media&token=35386904-91be-49ff-bd41-7b49cd016cb8"
+    },
+    {
+        "_id": {
+            "$oid": "65d85660f18239ff9bcbcd39"
+        },
+        "name": "Printers and Scanners",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2FPrinters%20and%20Scanners.png?alt=media&token=d717ca2c-cf09-4c8c-a58b-a7d04af8d1ab"
+    },
+    {
+        "_id": {
+            "$oid": "65d8566ef18239ff9bcbcd3b"
+        },
+        "name": "Audio Devices",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/elma-ecommerce-98c30.appspot.com/o/Categories%2FAudio%20Devices.png?alt=media&token=f7860a34-f8df-41d8-8391-230bbb28e6ff"
+    }
+]
