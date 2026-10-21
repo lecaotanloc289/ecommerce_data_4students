@@ -12,6 +12,16 @@ node scripts/rewrite-urls.mjs <baseUrl> <outDir>      # ghi bản JSON với URL
 - Ảnh lưu đúng object key của bucket Firebase (`products/7/a.jpg`, `Categories/…`, `category/icons/…`), nên chỉ cần đổi `baseUrl` khi chuyển host.
 - `download-images.mjs` chạy lại được: bỏ qua file đã có đủ dung lượng.
 - `rewrite-urls.mjs` không sửa file gốc; nó tách URL bị dính liền, bỏ ký tự rác và bỏ ảnh không phải Firebase (host `000webhostapp` đã chết, link console), in danh sách các ảnh bị bỏ.
+## Về `token=` trong URL Firebase
+
+`database.category.json`, `database.products.json` và `backup/manifest.json` (trường `sourceUrl`) chứa URL Firebase Storage có tham số `token=...`. Repo public nên các token này được công khai **có chủ đích**:
+
+- Đây là *download token* của Firebase: chỉ cho **đọc đúng một file** ảnh đó, giống một link chia sẻ.
+- Token **không** cho ghi, sửa, xoá, hay liệt kê file trong bucket, và không cho truy cập project Firebase/Google Cloud.
+- Các ảnh này vốn là ảnh sản phẩm public, đã được mirror lên R2 (`media.lecaotanloc.dev`).
+
+Muốn vô hiệu một token: Firebase Console → Storage → chọn file → *Revoke* access token.
+
 ## Cloudflare R2
 
 - Bucket `elma-ecommerce-images`, public qua custom domain `https://media.lecaotanloc.dev/<key>`.
